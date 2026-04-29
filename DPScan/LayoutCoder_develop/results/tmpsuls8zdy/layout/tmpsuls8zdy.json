@@ -1,0 +1,127 @@
+[
+    {
+        "layout_id": -1,
+        "layout_type": "row",
+        "size": [
+            1,
+            2
+        ],
+        "children": [
+            "Box_24",
+            "Box_25"
+        ],
+        "position": {
+            "column_min": 116,
+            "row_min": 939,
+            "column_max": 598,
+            "row_max": 965
+        },
+        "class": "Text",
+        "cell_position": null
+    },
+    {
+        "layout_id": -1,
+        "layout_type": "row",
+        "size": [
+            1,
+            2
+        ],
+        "children": [
+            "Box_27",
+            "Box_26"
+        ],
+        "position": {
+            "column_min": 118,
+            "row_min": 1323,
+            "column_max": 565,
+            "row_max": 1349
+        },
+        "class": "Text",
+        "cell_position": null
+    },
+    {
+        "layout_id": -1,
+        "layout_type": "row",
+        "size": [
+            1,
+            2
+        ],
+        "children": [
+            "Box_4",
+            "Box_5"
+        ],
+        "position": {
+            "column_min": 149,
+            "row_min": 313,
+            "column_max": 655,
+            "row_max": 503
+        },
+        "class": "Compo",
+        "cell_position": null
+    },
+    {
+        "layout_id": -1,
+        "layout_type": "grid",
+        "size": [
+            3,
+            2
+        ],
+        "children": [
+            "Box_6",
+            "Box_7",
+            "Box_10",
+            "Box_11",
+            "Box_14",
+            "Box_15"
+        ],
+        "position": {
+            "column_min": 346,
+            "row_min": 556,
+            "column_max": 705,
+            "row_max": 1708
+        },
+        "class": "Compo",
+        "cell_position": null
+    },
+    {
+        "layout_id": -1,
+        "layout_type": "col",
+        "size": [
+            2,
+            1
+        ],
+        "children": [
+            "Box_0",
+            "Box_2",
+            "Box_3"
+        ],
+        "position": {
+            "column_min": 683,
+            "row_min": 136,
+            "column_max": 723,
+            "row_max": 176
+        },
+        "class": "Compo",
+        "cell_position": null
+    },
+    {
+        "layout_id": -1,
+        "layout_type": "col",
+        "size": [
+            2,
+            1
+        ],
+        "children": [
+            "Box_8",
+            "Box_13"
+        ],
+        "position": {
+            "column_min": 509,
+            "row_min": 716,
+            "column_max": 634,
+            "row_max": 1242
+        },
+        "class": "Compo",
+        "cell_position": null
+    }
+]

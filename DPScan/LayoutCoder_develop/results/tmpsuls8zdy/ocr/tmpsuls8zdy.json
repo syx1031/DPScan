@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        1792,
+        828,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "CubeSolver",
+            "column_min": 34,
+            "row_min": 138,
+            "column_max": 244,
+            "row_max": 171,
+            "width": 210,
+            "height": 33
+        },
+        {
+            "id": 1,
+            "content": "Timer",
+            "column_min": 116,
+            "row_min": 555,
+            "column_max": 185,
+            "row_max": 581,
+            "width": 69,
+            "height": 26
+        },
+        {
+            "id": 2,
+            "content": "Customization",
+            "column_min": 456,
+            "row_min": 558,
+            "column_max": 616,
+            "row_max": 579,
+            "width": 160,
+            "height": 21
+        },
+        {
+            "id": 3,
+            "content": "Pocket Cube",
+            "column_min": 116,
+            "row_min": 939,
+            "column_max": 263,
+            "row_max": 965,
+            "width": 147,
+            "height": 26
+        },
+        {
+            "id": 4,
+            "content": "Tower 2x2x3",
+            "column_min": 454,
+            "row_min": 939,
+            "column_max": 598,
+            "row_max": 965,
+            "width": 144,
+            "height": 26
+        },
+        {
+            "id": 5,
+            "content": "MirrorCube 2x2",
+            "column_min": 118,
+            "row_min": 1325,
+            "column_max": 301,
+            "row_max": 1346,
+            "width": 183,
+            "height": 21
+        },
+        {
+            "id": 6,
+            "content": "Cube 3x3",
+            "column_min": 453,
+            "row_min": 1323,
+            "column_max": 565,
+            "row_max": 1349,
+            "width": 112,
+            "height": 26
+        },
+        {
+            "id": 7,
+            "content": "Truthsayer",
+            "column_min": 141,
+            "row_min": 1624,
+            "column_max": 327,
+            "row_max": 1663,
+            "width": 186,
+            "height": 39
+        },
+        {
+            "id": 8,
+            "content": "\u83b7\u53d6",
+            "column_min": 609,
+            "row_min": 1644,
+            "column_max": 676,
+            "row_max": 1678,
+            "width": 67,
+            "height": 34
+        },
+        {
+            "id": 9,
+            "content": "App Store",
+            "column_min": 144,
+            "row_min": 1672,
+            "column_max": 254,
+            "row_max": 1696,
+            "width": 110,
+            "height": 24
+        },
+        {
+            "id": 10,
+            "content": "\uff1a\u5e7f\u544a",
+            "column_min": 9,
+            "row_min": 1695,
+            "column_max": 78,
+            "row_max": 1721,
+            "width": 69,
+            "height": 26
+        }
+    ]
+}
