@@ -202,8 +202,6 @@ def collect_result(dprecord: DarkPatternRecording):
 if __name__ == '__main__':
     SAVE_DIR_ROOTS = ["cached/evaluations/offline"]
     ROOT_DIRS_LIST = ['db/offline']
-    # SAVE_DIR_ROOTS = ['cached/evaluations/cxm_db_comparison']
-    # ROOT_DIRS_LIST = ['db/cxm_db_comparison']
     root_dirs = [Path(root_dir) for root_dir in ROOT_DIRS_LIST]
     CHECKPOINT = "checkpoint.json"
 

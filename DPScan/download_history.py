@@ -271,7 +271,6 @@ def read_appid_from_csv(path, start_index, end_index, threshold=0):
 
 
 if __name__ == "__main__":
-    # apps = read_appid_list("resources_for_run/ground_truth_syx_us.xlsx")
     # apps = read_appid_from_csv("resources_for_run/AdsDP_us_have_ads.csv", 31, 40)
     apps = read_appid_from_csv("resources_for_run/apps_list.csv", 0, 1)
 
