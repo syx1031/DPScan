@@ -2,10 +2,10 @@
 
 In this repository, we provide code and dataset for reviewing.
 
-## Code
+## Code (**`/DPScan/`**)
 
-See **`DPScan/`**
+Implementation of DPScan. For configuration and usage instructions, please refer to `DPScan/README.md`.
 
-## Dataset
+## Dataset (`/data/`)
 
-Include KNOWN dataset, UNKNOWN dataset, and RAG repository, see **`data/`**
+Include KNOWN dataset, UNKNOWN dataset, and RAG repository. For data structure, please refer to `data/README.md`.

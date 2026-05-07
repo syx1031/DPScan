@@ -11,14 +11,14 @@ See known.xlsx
 
 ## UNKNOWN dataset
 
-See unknown.xlsx
+See unknown.csv
 
-* 1st column, appId: Apple Store App ID
+* 1st column, AppId: Apple Store App ID
 * 2nd column, BundleID: Apple Store App Bundle name
 
 ## RAG Repository
 
-A subset of exploration traces was extracted from AdsDP and annotated. see **db/**. Structure of this repository is as follows:
+A subset of exploration traces was extracted from AdsDP and annotated. see **db/**. The structure of this repository is as follows:
 
 ```
 db/
